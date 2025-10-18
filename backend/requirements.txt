@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+trimesh
+svgpathtools
+shapely
+numpy
+boto3
